@@ -101,11 +101,11 @@ Equity Trading Engines
 1st Class Degree in Maths and Computer Science from King's College London
 
 ### OTHER LIFE LOVES
-* YOGA
-* DRESS MAKING
-* TRAVEL
-* FILM AND GENERALLY ENJOYING LONDON CULTURE.
-* HELPING MY CHILDREN TO DEVELOP!
+* Yoga
+* Dress Making
+* Travel
+* Film and Generally enjoying London culture
+* Helping my children learn and grow
 
 ### CONTACT DETAILS
 SARAHABIMAY@GMAIL.COM
@@ -113,4 +113,5 @@ SARAHABIMAY@GMAIL.COM
 07786270236
 
 [GITHUB](https://github.com/sarahabimay) 
+
 [LINKEDIN](https://uk.linkedin.com/pub/sarah-johnston/15/317/741)
