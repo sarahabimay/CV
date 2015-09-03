@@ -54,7 +54,7 @@ Please see my [github profile](https://github.com/sarahabimay) for student proje
 
 [Web Crawler ](https://github.com/sarahabimay/Creepy) | [TicTacToe Game ](https://github.com/sarahabimay/TicTacToe) | [MUMMY WORKOUTS](https://github.com/AKSJ) | [F&C MEMBERSHIP APP](https://github.com/wheres-my-receipt/give_me_your_money)
 --- | --- | --- | ---
-A NodeJS web crawler which displays a site map of static assets. | An experiment to recreate the TicTacToe game, initially using the Minimax algorithm. | Live video workouts for parents, using TokBox webRTC. |  Founders and Coders membership app using Hapi on server side, NodeJS, MailGun, Stripe, Agenda.js, and MongoDB.
+A NodeJS web crawler which displays a site map of static assets. | An experiment to recreate the TicTacToe game, initially using the Minimax algorithm. A client side Javascript application; uses an MVC pattern and modularization using Browserify/Watchify; uses QUnit for testing.| Live video workouts for parents, using TokBox webRTC. |  Founders and Coders membership app using Hapi on server side, NodeJS, MailGun, Stripe, Agenda.js, and MongoDB.
 
 ### EXPERIENCE
 ---
